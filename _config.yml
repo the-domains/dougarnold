@@ -1,0 +1,23 @@
+name: DougArnold
+favicon: null
+layout_spectrum: 0.42582175391726196
+typography_spectrum: 0.38465158827602863
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.6239532555919141
+  lightness: 0.5054611526429653
+  saturation: 0.5747028877958655
+  rhythmicContrast: 0.42607493000105023
+purpose: []
